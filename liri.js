@@ -41,7 +41,7 @@ function switchFunctions(action) {
 }
 
 //Concert This (concert-this)
-function concertThis() {
+function concertThis(userInput) {
     var artist = userInput;
     axios
         .get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
@@ -70,7 +70,7 @@ function concertThis() {
 
 //Spotify This Song (spotify-this-song)
 function spotifyThis() {
-    var song = userInput;
+    var song = userInput || "Ace of Base";
     var spotify = new Spotify(keys.spotify);
 
     spotify
@@ -100,8 +100,8 @@ function spotifyThis() {
 
 //Movie This (movie-this)
 function movieThis() {
-    var userInput = process.argv.slice(3).join("+");
-    var movie = userInput;
+
+    var movie = userInput || "Mr Nobody";
     axios
         .get("http://www.omdbapi.com/?t=" + movie + "&plot=short&apikey=trilogy")
         .then(function (response) {

@@ -38,3 +38,10 @@ node liri movie-this the+avengers
 node liri movie-this the+notebook
 node liri spotify-this-song "I Want it That Way"
 node liri spotify-this-song "I Want it That Way"
+node liri spotify-this-song 
+node liri spotify-this-song nothing
+node liri spotify-this-song 
+node liri movie-this shrek
+node liri movie-this shrek
+node liri spotify-this-song 
+node liri movie-this 
