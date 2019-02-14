@@ -16,11 +16,17 @@ LIRI bot is a nodeJS program so there are dependencies required. Along with Node
 ### Screen Captures
 
 ![Help Command](images/screen_capture_01.jpg)
+Help Command
 ![Concert This](images/screen_capture_02.jpg)
+Concert This
 ![Movie This](images/screen_capture_03.jpg)
+Movie This
 ![Spotify This Song](images/screen_capture_04.jpg)
+Spotify This Song
 ![Spotify This Song - No Band](images/screen_capture_05.jpg)
+Spotify This Song - No Band
 ![Do What it Says](images/screen_capture_06.jpg)
+Do What it Says
 
 ### The Video 
 
