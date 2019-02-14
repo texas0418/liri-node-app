@@ -80,6 +80,7 @@ function spotifyThis() {
             limit: 1
         })
         .then(function (response) {
+            // console.log(response);
             var info = response.tracks.items[0];
             // console.log(info.album.name); //used to find path to variable responses
             var artist = info.album.artists[0].name;
@@ -144,7 +145,7 @@ function whatever() {
                 spotifyThis(action, userInput);
             }
         }
-        logText();
+       
     });
 }
 
