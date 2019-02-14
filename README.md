@@ -15,14 +15,14 @@ LIRI bot is a nodeJS program so there are dependencies required. Along with Node
 
 ### Screen Captures
 
-![Help Command](images/screen_capture_01)
-![Concert This](images/screen_capture_02)
-![Movie This](images/screen_capture_03)
-![Spotify This Song](images/screen_capture_04)
-![Spotify This Song - No Band](images/screen_capture_05)
-![Do What it Says](images/screen_capture_06)
+![Help Command](images/screen_capture_01.jpg)
+![Concert This](images/screen_capture_02.jpg)
+![Movie This](images/screen_capture_03.jpg)
+![Spotify This Song](images/screen_capture_04.jpg)
+![Spotify This Song - No Band](images/screen_capture_05.jpg)
+![Do What it Says](images/screen_capture_06.jpg)
 
-### The Video
+### The Video 
 
 I also made a video and uploaded it to YouTube on it working in real time.
 (https://youtu.be/eji96SgaoFo)
