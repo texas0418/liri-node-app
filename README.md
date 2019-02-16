@@ -4,6 +4,12 @@ Much like iPhone's SIRI, LIRI is a doigital assistant. However, while SIRI is a 
 
 ### Getting Started
 
+### Installation
+
+- clone this repository
+- npm install (installs all the dependencies listed below.)
+- command are run in the terminal screen
+
 LIRI bot is a nodeJS program so there are dependencies required. Along with NodeJS (npm install node), you will need to run npm install for the following NPM programs:
 
 * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
